@@ -1,1 +1,1 @@
-C:\Users\timil\Documents\d.akindipe06COS101\week-3\practice_7\target\debug\practice_7.exe: C:\Users\timil\Documents\d.akindipe06COS101\week-3\practice_7\src\main.rs
+C:\Users\USER\Documents\e.yakubuCOS101\week-3\practice_7\target\debug\practice_7.exe: C:\Users\USER\Documents\e.yakubuCOS101\week-3\practice_7\src\main.rs
