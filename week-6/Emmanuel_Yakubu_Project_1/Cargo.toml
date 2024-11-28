@@ -1,0 +1,6 @@
+[package]
+name = "Emmanuel_Yakubu_Project_1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
