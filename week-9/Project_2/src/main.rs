@@ -15,7 +15,7 @@ fn main() {
     loop{
 
     let mut input1 = String::new();
-    println!("Enter your name or type done when you are through");
+    println!("Enter your name and type done when you're finished.");
     io::stdin().read_line(&mut input1).unwrap();
     let name1: String = input1.trim().to_string();
     if &name1 == "done"{
