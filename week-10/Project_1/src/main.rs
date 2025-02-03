@@ -1,4 +1,4 @@
-#[derive(Debug)]
+
 struct Laptops{
     brand:String,
     price:i32,
